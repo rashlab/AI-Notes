@@ -1,2 +1,2 @@
 # AI-Notes
-random memos and notes on AI 
+Samples from a latent space 
