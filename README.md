@@ -1,5 +1,5 @@
 ## just a random depository for my AI notes
-* #### about_nn.Linear.ipynb - understanding Linear Transformation using PyTorch nn.Linear ([Google Colab](https://colab.research.google.com/github/rashlab/AI_Notes/blob/main/about_nn.Linear.ipynb))
+* #### about_nn.Linear.ipynb - understanding Linear Transformation using PyTorch nn.Linear ([Google Colab](https://colab.research.google.com/github/rashlab/AI-Notes/blob/main/about_nn.Linear.ipynb))
 ![basic linear transformation](visual_nn.Linear.png)
 
-* #### Transformer/Transformer.ipynb - understanding the Transformer ([Google Colab](https://colab.research.google.com/github/rashlab/AI_Notes/blob/main/Transformer/Transformer.ipynb))
+* #### Transformer/Transformer.ipynb - understanding the Transformer ([Google Colab](https://colab.research.google.com/github/rashlab/AI-Notes/blob/main/Transformer.ipynb))
