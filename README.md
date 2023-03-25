@@ -13,7 +13,7 @@ a mini-GPT model (tiny Shakespeare) with notes I wrote to myself. Based on Andre
 
 * The model is configured by default to run with 6 Transformer blocks (```C.n_layer```), each with 6 masked self-attention heads (```C.n_head```), and the embedding size is 192 (```C.n_embed```)
 
-* The model has ~1.1 million learnable parameters, and on a single NVIDIA GeForce RTX 3090 it takes about 5 min to train
+* The model has ~1.1 million learnable parameters, and on a single NVIDIA GeForce RTX 3090 it takes about 5 min to train. below is one sample of generated text:
 
 
 ```
