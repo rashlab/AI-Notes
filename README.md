@@ -2,12 +2,12 @@
 
 
 ## the ***Transformer*** notebook 
-[31 March 2023] 
-> [Transformer/Transformer.ipynb](Transformer/Transformer.ipynb)
 
-> Open in [Google Colab](https://colab.research.google.com/github/rashlab/AI-Notes/blob/main/Transformer/Transformer.ipynb)
+[Transformer/Transformer.ipynb](Transformer/Transformer.ipynb)
 
-a mini-GPT model (tiny Shakespeare) with notes I wrote to myself. Based on Andrej Karpathy's [minGPT project](https://github.com/karpathy/minGPT). Thanks Andrej! 
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rashlab/AI-Notes/blob/main/Transformer/Transformer.ipynb)
+
+**about:** a mini-GPT model (tiny Shakespeare) with notes I wrote to myself. Based on Andrej Karpathy's [minGPT project](https://github.com/karpathy/minGPT). Thanks Andrej! 
 
 * The model is trained on 1 MB txt file of Shakespeare's writings, and after short training learns to generate new sonnets that, while nonsensical, resemble Shakespeare's style
 
@@ -46,11 +46,12 @@ Ha
 
 
 ## *Linear Transformation with PyTorch nn.Linear*
-[22 March 2023] 
-> [nn.Linear/nn.Linear.ipynb](nn.Linear/nn.Linear.ipynb)
 
-> Open in [Google Colab](https://colab.research.google.com/github/rashlab/AI-Notes/blob/main/nn.Linear/nn.Linear.ipynb)
+**about:** a simple explainer notebook for Linear Transformation and PyTorch nn.Linear module + an excercise in **matplotlib** as a bonus
 
+[nn.Linear/nn.Linear.ipynb](nn.Linear/nn.Linear.ipynb)
+
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rashlab/AI-Notes/blob/main/nn.Linear/nn.Linear.ipynb)
 
 ![basic linear transformation](filez/nn.Linear.png)
 
