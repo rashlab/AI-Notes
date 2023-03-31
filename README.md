@@ -15,7 +15,7 @@
 
 * The model is configured by default to run with 6 Transformer blocks, each with 6 masked self-attention heads, and the embedding size is 192
 
-* The model has ~2.5 million learnable parameters, and on a single NVIDIA GeForce RTX 3090 it takes about 5 min to train. below is one sample of generated text:
+* The model has ~2.7 million learnable parameters, and on a single NVIDIA GeForce RTX 3090 it takes about 5 min to train. below is one sample of generated text:
 
 
 ```
