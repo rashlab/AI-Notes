@@ -7,7 +7,7 @@
 
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rashlab/AI-Notes/blob/main/Transformer/Transformer.ipynb)
 
-**about:** a mini-GPT model (tiny Shakespeare) with notes I wrote to myself. Based on Andrej Karpathy's [minGPT project](https://github.com/karpathy/minGPT). Thanks Andrej! 
+**about:** this notebook implements a mini-GPT model (tiny Shakespeare) I made while trying to understand Transformers, how and why they work so well. There is a long introductory section and plenty of notes added to the code, which is based entirely on Andrej Karpathy's [minGPT project](https://github.com/karpathy/minGPT). Thanks for that Andrej! 
 
 * The model is trained on ~1 MB txt file of Shakespeare's writings, and after short training learns to generate new sonnets that, while nonsensical, resemble Shakespeare's style
 
@@ -47,7 +47,7 @@ Ha
 
 ## *Linear Transformation with PyTorch nn.Linear*
 
-**about:** a simple explainer notebook for Linear Transformation and PyTorch nn.Linear module + an excercise in **matplotlib** as a bonus
+**about:** this notebook is a short & basic explainer for Linear Transformation in general, and the PyTorch nn.Linear module in particular, and it includes a basic excercise in **matplotlib** as a bonus
 
 [nn.Linear/nn.Linear.ipynb](nn.Linear/nn.Linear.ipynb)
 
