@@ -9,7 +9,7 @@
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rashlab/AI-Notes/blob/main/langchain/QueryMyDoc.ipynb)
 
 ### **About** 
-This notebook summerize a small excercise I did with LangChain in what I consider a big challenge: how can we use LLMs to help us work with a corpus of private documents. There are several problems that should be tackled, and LangChain's example is one of the first opensource attempts. The notebook includes the LangChain code, my findings and thoughts. 
+This notebook summarizes a small exercise I conducted with LangChain, focusing on a significant challenge: leveraging LLMs to work with a corpus of private documents. There are numerous problems to tackle, and LangChain's example represents one of the first open-source attempts in this area. The notebook contains the LangChain code, my findings, and reflections. 
 
 #
 
