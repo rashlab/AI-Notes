@@ -1,14 +1,28 @@
 # **random AI notes**
 
+## **Query Private Docs with GPT & LangChain** 
+[April 2023]
+
+[langchain/QueryMyDoc.ipynb](langchain/QueryMyDoc.ipynb)
+
+
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rashlab/AI-Notes/blob/main/langchain/QueryMyDoc.ipynb)
+
+### **About** 
+This notebook summerize a small excercise I did with LangChain in what I consider a big challenge: how can we use LLMs to help us work with a corpus of private documents. There are several problems that should be tackled, and LangChain's example is one of the first opensource attempts. The notebook includes the LangChain code, my findings and thoughts. 
+
+#
+
 
 ## the ***Transformer***  
+[March 2023]
 
 [Transformer/Transformer.ipynb](Transformer/Transformer.ipynb)
 
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rashlab/AI-Notes/blob/main/Transformer/Transformer.ipynb)
 
 ### **About** 
-this notebook implements a mini-GPT model (tiny Shakespeare) I made while trying to understand Transformers, how and why they work so well. There is a long introductory section and plenty of notes added to the code, which is based entirely on Andrej Karpathy's [minGPT project](https://github.com/karpathy/minGPT). Thanks for that Andrej! 
+This notebook implements a mini-GPT model (tiny Shakespeare) I made while trying to understand Transformers, how and why they work so well. There is a long introductory section and plenty of notes added to the code, which is based entirely on Andrej Karpathy's [minGPT project](https://github.com/karpathy/minGPT). Thanks for that Andrej! 
 
 * The model is trained on ~1 MB txt file of Shakespeare's writings, and after short training learns to generate new sonnets that, while nonsensical, resemble Shakespeare's style
 
@@ -46,7 +60,8 @@ Ha
 #
 
 
-## *Linear Transformation with PyTorch nn.Linear*
+## *Linear Transformation with PyTorch nn.Linear*  
+[March 2023]
 
 ### **About** 
 This notebook is an elementary explainer on linear transformations in general, and specifically focuses on the PyTorch nn.Linear module. It also includes a basic exercise in **matplotlib** as a bonus
