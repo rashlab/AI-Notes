@@ -1,4 +1,4 @@
-# you need to pip install openai, chroma and langchain
+# you need to pip install openai, tiktoken, chroma and langchain
 import os
 
 from langchain.chains import RetrievalQA
