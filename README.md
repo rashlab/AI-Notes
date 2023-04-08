@@ -60,7 +60,7 @@ Ha
 #
 
 
-## *Linear Transformation with PyTorch nn.Linear*  
+## Linear Transformation (with *PyTorch nn.Linear*)  
 [March 2023]
 
 ### **About** 
